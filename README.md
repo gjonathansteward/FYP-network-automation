@@ -16,10 +16,11 @@ For my personal ramble about the code and a bit of a demo see: https://www.youtu
 ======
 NOTE
 ======
+
 To fully run this system you need a database running in the background
 I am not a programmer by trade so the code isn't perfect!
 Also I'm a git hub noob so if you suggest things I might just reach out and ask how to accept them.
-=======
+
 
 
 Known issues:
