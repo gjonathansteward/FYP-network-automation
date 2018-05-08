@@ -5,7 +5,9 @@ Follow the guys in my department here on twitter, they are some fantastic teache
 
 This project implemented 3 main pieces of automation
 1 - Removal of pyhsical interfaces from aggregate interfaces triggered either via the CLI/SYSLOG
+
 2 - Detection of high utilisation and then routing change applied, triggered either via a cron job or CLI
+
 3 - Automatic configuration of BGP peers based on existing details in a database, triggered either via a cron job or CLI
 
 For understanding the code, please see the functional diagrams in the root directories
