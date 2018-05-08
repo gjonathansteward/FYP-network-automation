@@ -17,9 +17,7 @@ For my personal ramble about the code and a bit of a demo see: https://www.youtu
 
 
 
-NOTE
-======
-
+**NOTE**
 To fully run this system you need a database running in the background
 I am not a programmer by trade so the code isn't perfect!
 Also I'm a git hub noob so if you suggest things I might just reach out and ask how to accept them.
@@ -30,14 +28,20 @@ Also I'm a git hub noob so if you suggest things I might just reach out and ask 
 
 
 
-Known issues:
+**Known issues:**
 When running the Syslog monitor and putting links back into lag with Cisco the syslog monitor removes the interface again due to syslog messages
 
-Possible improvements:
+
+**Possible improvements:**
+
 Quicker turn around on the config lock
+
 Graphical Front end
+
 More automation
+
 addtional details for bgp such as import and export policies.
+
 tidier coding
 
 
