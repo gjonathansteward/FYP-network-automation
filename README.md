@@ -4,6 +4,7 @@ This project is a personal development while during my final year within univers
 Follow the guys in my department here on twitter, they are some fantastic teachers! https://twitter.com/StaffsNetworks
 
 This project implemented 3 main pieces of automation
+
 1 - Removal of pyhsical interfaces from aggregate interfaces triggered either via the CLI/SYSLOG
 
 2 - Detection of high utilisation and then routing change applied, triggered either via a cron job or CLI
