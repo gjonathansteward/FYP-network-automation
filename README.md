@@ -47,5 +47,16 @@ addtional details for bgp such as import and export policies.
 
 tidier coding
 
+**Dependancies**
+
+PyEz https://www.juniper.net/documentation/en_US/release-independent/junos-pyez/information-products/pathway-pages/index.html
+
+easysnmp
+
+mysql
+
+paramiko
+
+
 
 
