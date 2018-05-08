@@ -3,6 +3,9 @@ Repository including the python code developed during the duration of my final y
 This project is a personal development while during my final year within university with Staffordshire University!
 Follow the guys in my department here on twitter, they are some fantastic teachers! https://twitter.com/StaffsNetworks
 
+**If you want to read my final dissertation, go and check it out here: http://jonathansteward.co.uk/index.php/2017-18-dissertation-implementation-of-network-operation-automation/**
+
+
 This project implemented 3 main pieces of automation
 
 1 - Removal of pyhsical interfaces from aggregate interfaces triggered either via the CLI/SYSLOG
